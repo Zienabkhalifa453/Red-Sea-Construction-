@@ -1,0 +1,59 @@
+/* RTL Support */
+.rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+/* RTL Layout Adjustments */
+.rtl .ltr-only {
+  display: none;
+}
+
+.rtl .rtl-flip {
+  transform: scaleX(-1);
+}
+
+/* RTL Spacing */
+.rtl .ml-2 {
+  margin-left: 0;
+  margin-right: 0.5rem;
+}
+
+.rtl .mr-2 {
+  margin-right: 0;
+  margin-left: 0.5rem;
+}
+
+.rtl .pl-4 {
+  padding-left: 0;
+  padding-right: 1rem;
+}
+
+.rtl .pr-4 {
+  padding-right: 0;
+  padding-left: 1rem;
+}
+
+/* RTL Flexbox */
+.rtl .flex-row {
+  flex-direction: row-reverse;
+}
+
+.rtl .space-x-4 > * + * {
+  margin-left: 0;
+  margin-right: 1rem;
+}
+
+/* RTL Text Alignment */
+.rtl .text-left {
+  text-align: right;
+}
+
+.rtl .text-right {
+  text-align: left;
+}
+
+/* RTL Font Family */
+.rtl {
+  font-family: 'Cairo', 'Inter', sans-serif;
+}

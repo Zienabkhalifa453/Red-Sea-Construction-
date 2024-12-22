@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200">
+  <!-- Building Icon -->
+  <path 
+    d="M250 20 L450 180 L50 180 Z" 
+    fill="#BD9E5D"
+    opacity="0.9"
+  />
+  
+  <!-- Text -->
+  <text 
+    x="250" 
+    y="140" 
+    text-anchor="middle" 
+    font-family="Arial, sans-serif" 
+    font-weight="bold" 
+    font-size="48" 
+    fill="#BD9E5D"
+  >
+    RED SEA
+  </text>
+  
+  <text 
+    x="250" 
+    y="175" 
+    text-anchor="middle" 
+    font-family="Arial, sans-serif" 
+    font-weight="bold" 
+    font-size="24" 
+    fill="#BD9E5D"
+  >
+    CONSTRUCTION
+  </text>
+</svg>

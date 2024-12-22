@@ -1,0 +1,52 @@
+{
+  "header": {
+    "menu": {
+      "home": "Home",
+      "projects": "Projects",
+      "services": "Services",
+      "about": "About",
+      "careers": "Careers",
+      "contact": "Contact"
+    },
+    "aboutSubmenu": {
+      "overview": "Overview",
+      "history": "History",
+      "awards": "Awards",
+      "vision": "Vision"
+    }
+  },
+  "home": {
+    "hero": {
+      "welcome": "WELCOME TO RED SEA CONSTRUCTION",
+      "title": "Building Tomorrow's Legacy Today",
+      "subtitle": "Excellence in Construction and Development across the Middle East",
+      "cta": {
+        "startProject": "Start Your Project",
+        "viewWork": "View Our Work"
+      }
+    }
+  },
+  "footer": {
+    "description": "Red Sea Construction is a leading construction and development company in the Middle East, known for innovative solutions and sustainable practices.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "copyright": "Red Sea Construction. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "address": "123 Business District, Jeddah, Saudi Arabia",
+    "links": {
+      "home": "Home",
+      "about": "About Us",
+      "projects": "Projects",
+      "careers": "Careers",
+      "contact": "Contact"
+    },
+    "services": {
+      "construction": "Construction Management",
+      "development": "Property Development",
+      "renovation": "Renovation Services",
+      "consulting": "Consulting Services"
+    }
+  }
+}
